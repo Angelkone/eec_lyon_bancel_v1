@@ -1,2 +1,2 @@
 # eec_lyon_bancel_v1
-test site internet eec
+Bienvenue sur le site de l'EEC paroisse de Lyon
